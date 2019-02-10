@@ -1,2 +1,3 @@
 feature1-ok3changed
 feature2-ok1changed
+feature2-ok2changed
